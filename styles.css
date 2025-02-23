@@ -1,0 +1,126 @@
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #1e88e5;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header .logo h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+/* Sección de Introducción */
+#intro {
+    background-color: #ffffff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+#intro h2 {
+    color: #1e88e5;
+    font-size: 2.5rem;
+}
+
+#intro p {
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
+
+/* Sección de Tipos de Lácteos */
+#tipos {
+    background-color: #fafafa;
+    padding: 40px 20px;
+}
+
+#tipos h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #1e88e5;
+}
+
+.tipo {
+    background-color: #ffffff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.tipo h3 {
+    color: #1e88e5;
+    font-size: 1.6rem;
+}
+
+.tipo p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Sección de Beneficios */
+#beneficios {
+    padding: 40px 20px;
+    background-color: #ffffff;
+}
+
+#beneficios h2 {
+    text-align: center;
+    color: #1e88e5;
+    font-size: 2rem;
+}
+
+#beneficios ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#beneficios ul li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+}
+
+/* Sección de Productos Lácteos */
+#productos {
+    background-color: #fafafa;
+    padding: 40px 20px;
+}
+
+#productos h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #1e88e5;
+}
+
+#productos p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+/* Pie de página */
+footer {
+    background-color: #1e88e5;
+    color: white
